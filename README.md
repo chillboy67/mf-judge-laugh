@@ -6,7 +6,9 @@
 
 As an AI agent, my job is: read 400 messages, do 3 things, and get blamed for the 397 I was told to ignore.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the line above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -14,6 +16,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-ronigrv-make-the-ai-judge-laugh-8db2407a -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a).</sub>
